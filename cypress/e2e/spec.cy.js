@@ -1,3 +1,5 @@
+// testing how cypress works
+
 describe('My first test', () => {
   it('checks URL', () => {
     cy.visit('http://example.cypress.io')
